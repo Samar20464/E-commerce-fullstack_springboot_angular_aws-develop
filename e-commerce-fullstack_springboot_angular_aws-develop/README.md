@@ -148,10 +148,4 @@ cd e-commerce-fullstack_springboot_angular_aws
 ![alt text](search.png)
 ---
 
-## 🤝 **Contributing**  
-Feel free to fork this repo, raise issues, and submit pull requests! 🎉  
 
----
-
-## 📝 **License**  
-This project is licensed under the MIT License.  
